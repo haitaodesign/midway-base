@@ -1,12 +1,12 @@
 # midway-base
 
-## QuickStart
+## 快速入门
 
-<!-- add docs here for user -->
+<!-- 在此次添加使用文档 -->
 
-see [midway docs][midway] for more detail.
+如需进一步了解，参见 [midway 文档][midway]。
 
-### Development
+### 本地开发
 
 ```bash
 $ yarn
@@ -14,17 +14,17 @@ $ yarn dev
 $ open http://localhost:7001/
 ```
 
-### Deploy
+### 部署
 
 ```bash
 $ yarn start
 $ yarn stop
 ```
 
-### npm scripts
+### 内置指令
 
-- Use `yarn lint` to check code style.
-- Use `yarn test` to run unit test.
+- 使用 `yarn lint` 来做代码风格检查。
+- 使用 `yarn test` 来执行单元测试。
 
 
 [midway]: https://midwayjs.org
