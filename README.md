@@ -1,4 +1,4 @@
-# my-midway-project
+# midway-base
 
 ## QuickStart
 
