@@ -9,22 +9,22 @@ see [midway docs][midway] for more detail.
 ### Development
 
 ```bash
-$ npm i
-$ npm run dev
+$ yarn
+$ yarn dev
 $ open http://localhost:7001/
 ```
 
 ### Deploy
 
 ```bash
-$ npm start
-$ npm stop
+$ yarn start
+$ yarn stop
 ```
 
 ### npm scripts
 
-- Use `npm run lint` to check code style.
-- Use `npm test` to run unit test.
+- Use `yarn lint` to check code style.
+- Use `yarn test` to run unit test.
 
 
 [midway]: https://midwayjs.org
